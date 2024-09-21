@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+   <PrintOptions>
+      <IsoFontname keytype="string">Arial</IsoFontname>
+      <IsoFontHeight keytype="int">12</IsoFontHeight>
+      <IsoFontStyle keytype="int">0</IsoFontStyle>
+      <WatermarkLineSpacing keytype="int">10</WatermarkLineSpacing>
+      <CompatibilityPrinters keytype="string"/>
+      <MinimumLineWeight keytype="real">0.005906</MinimumLineWeight>
+      <ForceMonochrome keytype="bool">false</ForceMonochrome>
+      <AllColorsBlack keytype="bool">false</AllColorsBlack>
+      <OutlineHides keytype="bool">false</OutlineHides>
+      <PrintRange keytype="int">1</PrintRange>
+      <LineThicknessUnit keytype="int">0</LineThicknessUnit>
+      <UnitType keytype="int">0</UnitType>
+      <AutoRotate keytype="bool">true</AutoRotate>
+      <PrintInsideBanners keytype="bool">false</PrintInsideBanners>
+      <Changemarks keytype="bool">false</Changemarks>
+      <ExportRedactionReasons keytype="bool">false</ExportRedactionReasons>
+      <PersistSettings keytype="bool">false</PersistSettings>
+   </PrintOptions>
+   <RedlineOptions>
+      <RedlineLinewidth keytype="real">0.3</RedlineLinewidth>
+      <RedlineLinestyle keytype="string">SOLID</RedlineLinestyle>
+      <RedlineColor keytype="string">255 0 0</RedlineColor>
+      <RedlineSecondaryColor keytype="string">255 255 128</RedlineSecondaryColor>
+      <RedlineBlockoutColor keytype="string">0 0 0</RedlineBlockoutColor>
+      <RedlineBlockoutEdge keytype="bool">true</RedlineBlockoutEdge>
+      <RedlineDrawstyle keytype="string">HOLLOW</RedlineDrawstyle>
+      <RedlineFontsize keytype="real">0.5</RedlineFontsize>
+      <RedlineItalicText keytype="bool">false</RedlineItalicText>
+      <RedlineBoldText keytype="bool">false</RedlineBoldText>
+      <RedlineUnderlineText keytype="bool">false</RedlineUnderlineText>
+      <RedlineOpaqueText keytype="string">TRANS</RedlineOpaqueText>
+      <RedlineFontname keytype="string">Arial</RedlineFontname>
+      <RedlineHasarrow1 keytype="bool">true</RedlineHasarrow1>
+      <RedlineArrowtype1 keytype="string">normal</RedlineArrowtype1>
+      <RedlineArrowwidth1 keytype="real">1.0</RedlineArrowwidth1>
+      <RedlineArrowlength1 keytype="real">1.0</RedlineArrowlength1>
+      <RedlineHasarrow2 keytype="bool">false</RedlineHasarrow2>
+      <RedlineArrowtype2 keytype="string">normal</RedlineArrowtype2>
+      <RedlineArrowwidth2 keytype="real">1.0</RedlineArrowwidth2>
+      <RedlineArrowlength2 keytype="real">1.0</RedlineArrowlength2>
+   </RedlineOptions>
+   <DisplayOptions>
+      <BackgroundColor keytype="int">0</BackgroundColor>
+      <BorderBackgroundColor keytype="int">0</BorderBackgroundColor>
+      <ThumbnailSize keytype="int">100</ThumbnailSize>
+      <AllowAnimate keytype="bool">true</AllowAnimate>
+      <EnableGdiplus keytype="bool">true</EnableGdiplus>
+      <ShowLineweights keytype="bool">false</ShowLineweights>
+      <ThinLinesOnly keytype="bool">false</ThinLinesOnly>
+   </DisplayOptions>
+</Settings>
